@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="DialogExit" parent="android:Theme.Dialog">
+        <item name="android:windowIsTranslucent">true</item>
+        <item name="android:windowBackground">@drawable/dialog_exit</item>
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:buttonBarPositiveButtonStyle">@style/DialogBtnPositiveExit</item>
+        <item name="android:buttonBarNegativeButtonStyle">@style/DialogBtnNegativeExit</item>
+    </style>
+
+    <style name="DialogBtnPositiveExit"
+        parent="android:Widget.DeviceDefault.Button.Borderless">
+        <item name="android:imageButtonStyle">@drawable/dialog_exit_btn_yes</item>
+    </style>
+    <style name="DialogBtnNegativeExit"
+        parent="android:Widget.DeviceDefault.Button.Borderless">
+        <item name="android:imageButtonStyle">@drawable/dialog_exit_btn_no</item>
+    </style>
+</resources>

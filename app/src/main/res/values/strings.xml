@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">Duma</string>
+    <string name="loading_name">Duma_loading</string>
+    <string name="preview_story">PreviewStory</string>
+    <string name="exitApp">exitApp</string>
+    <string name="settingsApp">setingsApp</string>
+    <string name="statusApp">satusApp</string>
+    <string name="moneyUser">moneyUser</string>
+    <string name="lifeUser">lifeUser</string>
+    <string name="storeApp">storeApp</string>
+    <string name="numRes">5</string>
+    <string name="returnHistory">returnHistory</string>
+    <string name="playHistory">playHistory</string>
+
+    <string name="series">Серія 1 із 12</string>
+    <string name="annotation">Тобі пропонують вигідну статтю, але життя диктує свої умови. Чи готова ти понести тягар магії?</string>
+    <string name="adbBtn">adbBtn</string>
+    <string name="textCancel">Відмінити</string>
+    <string name="textYes">Так</string>
+
+    <string name="title_activity_settings">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="backMenu">backMenu</string>
+    <string name="personMagdalena">person_magdalena</string>
+    <string name="dialogHistory">dialogHistory</string>
+    <string name="text_begin_history">Зараз розпочнеться ваша історія</string>
+    <string name="dialogmenu">dialogMenu</string>
+    <string name="textZolotovlaska">Грайте від імені доньки короля, Золотовласки</string>
+    <string name="dialog_exit_no">dialog_exit_no</string>
+    <string name="dialog_exit_yes">dialog_exit_yes</string>
+
+</resources>
