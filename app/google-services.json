@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "15469914210",
+    "project_id": "duma-4ab28",
+    "storage_bucket": "duma-4ab28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15469914210:android:377b9eab0437168f53893b",
+        "android_client_info": {
+          "package_name": "com.mockable.dumav10"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15469914210-mtcj34v62a847ivkvn53pru1qh2pfc4j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mockable.dumav10",
+            "certificate_hash": "9e619133545cdf8839f51498f78f16abba88a602"
+          }
+        },
+        {
+          "client_id": "15469914210-r91ppliqrft7ndbng3v6r3vjo04ua6fm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDGpobU-MVAcHjOQoX8zguzTqri2-4aWno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15469914210-r91ppliqrft7ndbng3v6r3vjo04ua6fm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
